@@ -25,7 +25,7 @@
 
 **2.** Копируем в буфер обмена: 
 
-1) `[https://github.com/PrinceVSFX/Vlcom/PrinceVSFX/Vless-Configs/main/Configs1.txt)`
+1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Configs1.txt`
 
 **3.** Заходим в приложение **«v2rayNG»** и в правом верхнем углу нажимаем на ➕, а затем выбираем **«Импорт из буфера обмена»**.
    
