@@ -12,10 +12,10 @@
 
 ## Список конфигов
 
-·VLESS Config list
+· VLESS Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
-·White Config list
+· White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
 
 ## Гайд на все устройства
@@ -28,10 +28,10 @@
 
 **2.** Копируем в буфер обмена: 
 
-·VLESS Config list 
+· VLESS Config list 
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
-·White Config list
+· White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
 
 **3.** Заходим в приложение **«v2rayNG»** и в правом верхнем углу нажимаем на ➕, а затем выбираем **«Импорт из буфера обмена»**.
@@ -50,10 +50,10 @@
 
 **2.** Копируем в буфер обмена:
 
-·VLESS Config list
+· VLESS Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
-·White Config list
+· White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
 
 **3.** Заходим в приложение **«V2Box - V2ray Client»** и переходим во вкладку **«Config»**, нажимаем на плюсик в правом верхнем углу, затем — **«Добавить подписку»**, вводим любое **«Название»** и вставляем ссылку на конфиг в поле **«URL»**.
@@ -74,10 +74,10 @@
 
 **3.** Копируем в буфер обмена:
 
-·VLESS Config list
+· VLESS Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
-·White Config list
+· White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
 
 **4.** Нажимаем на кнопку **«Добавить из буфера обмена»**.
@@ -100,10 +100,10 @@
 
 **2.** Копируем в буфер обмена: 
 
-·VLESS Config list
+· VLESS Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
-·White Config list
+· White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
 
 **3.** Нажимаем на **«Профили»**, а затем **«Добавить профиль из буфера обмена»**.
