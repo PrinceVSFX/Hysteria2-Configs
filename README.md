@@ -1,186 +1,243 @@
-# Туториал
+<div align="center">
 
-## Содержание
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                          ▓
+▓    ██████╗ ██████╗ ██╗███╗   ██╗ ██████╗███████╗       ▓
+▓   ██╔══██╗██╔══██╗██║████╗  ██║██╔════╝██╔════╝       ▓
+▓   ██████╔╝██████╔╝██║██╔██╗ ██║██║     █████╗         ▓
+▓   ██╔═══╝ ██╔══██╗██║██║╚██╗██║██║     ██╔══╝         ▓
+▓   ██║     ██║  ██║██║██║ ╚████║╚██████╗███████╗       ▓
+▓   ╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝       ▓
+▓                                                          ▓
+▓      >>> ADAPT-CONFIGS by PrinceVSFX <<<                ▓
+▓         E S T A B L I S H E D   1 9 9 9                 ▓
+▓                                                          ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-- [Краткое руководство](#Краткое-руководство)
-- [Список конфигов](#Список-конфигов)
-- [Гайд на установку приложения и конфига на все устройства](#Гайд-на-установку-приложения-и-конфига-на-все-устройства)
-- [Гайд на обновление конфигов](#Гайд-на-обновление-конфигов)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PrinceVSFX.Adapt-Configs&color=00ff41&labelColor=000000)
+![Stars](https://img.shields.io/github/stars/PrinceVSFX/Adapt-Configs?style=flat-square&color=00ffcc&labelColor=000000&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/PrinceVSFX/Adapt-Configs?style=flat-square&color=00ff41&labelColor=000000)
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20Notepad-00ff41?style=flat-square&labelColor=000000)
 
-## Краткое руководство 
-
-1. Найдите ниже подходящую ссылку (TXT-подписку).
-2. Скопируйте нужную ссылку из раздела **«Cписок конфигов»**.
-3. Импортируйте её в ваш **VPN-клиент**: (`Exclave` / `v2rayNG` / `Hiddify` / `NekoRay` / `V2Box` / `Streisand`)
-4. Проверьте пинг профилей (в самих приложениях есть данная функция). 
-5. Выберите самый быстрый сервер и подключайтесь. 
-
-Поддерживаются протоколы: (`VLESS`, `VMess`, `Trojan`, `Shadowsocks`, `Hysteria`, `Reality`). Если один протокол замедлится, вы всегда можете переключиться на другой.
-
-## Список конфигов 
-
-· Main Config list 
-1) `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt`
-
-· White Config list
-1) `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt`
- 
-## Гайд на установку приложения и конфига на все устройства
-
-<details>
-
-<summary> Гайд для Android</summary>
-
-**1.** Скачиваем **«Exclave»** — [Ссылка](https://github.com/dyhkwong/Exclave/releases)
-
-**2.** Копируем в буфер обмена: 
-
-· Main Config list 
-1) `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt`
-
-· White Config list
-1) `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt`
-
-**3.** Заходим в приложение **«Exclave»** и в левом верхнем углу нажимаем на ☰, а затем выбираем **«Конфигурация»**.
-   
-**4.** Нажимаем **«справа сверху на блокнот с ➕»**, а затем **«Импорт из буфера обмена»**, после чего на **«три точки справа сверху»** ➡️ *«Тест подключения»* ➡️ *«URL test»*. 
-
-**5.** После окончания теста еще раз нажимаем на **«три точки справа сверху»** ➡️ *«Сортировать»* ➡️ *«По задержке»*. 
-
-**6.** Выбираем сервер который вам понравился и включаем нажав на **«Самолётик снизу»**. 
-
-</details>
 ---
-<details>
 
-<summary> Гайд для iOS, iPadOS</summary>
+```
+╔══════════════════════════════════════════════════════════════╗
+║  *** YOU ARE VISITOR NUMBER:                              *** ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-**1.** Скачиваем **«V2Box - V2ray Client»** — [Ссылка](https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690)
+![Counter](https://count.getloli.com/get/@PrinceVSFX-Adapt-Configs?theme=moebooru)
 
-**2.** Копируем в буфер обмена:
+```
++----------------------------------------------------------+
+|  [ HOME ]  [ FILES ]  [ CONFIGS ]  [ LINKS ]  [ INFO ]  |
++----------------------------------------------------------+
+```
 
-· Main Config list
-1) `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt`
+[![Y2K Ready](https://img.shields.io/badge/Y2K-READY-00ff41?style=for-the-badge&labelColor=000000)](.)
+[![Under Construction](https://img.shields.io/badge/🚧_UNDER-CONSTRUCTION-ffaa00?style=for-the-badge&labelColor=000000)](.)
+[![Netscape 4.0](https://img.shields.io/badge/Best_in-Netscape_4.0-00ffcc?style=for-the-badge&labelColor=000000)](.)
 
-· White Config list
-1) `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt`
+</div>
 
-**3.** Заходим в приложение **«V2Box - V2ray Client»** и переходим во вкладку **«Config»**, нажимаем на плюсик в правом верхнем углу, затем — **«Добавить подписку»**, вводим любое **«Название»** и вставляем ссылку на конфиг в поле **«URL»**.
-
-**4.** После добавления конфига дожидаемся окончания проверки и выбираем нужный, просто нажав на его название.
-
-**5.** В нижней панели программы нажимаем кнопку **«Подключиться»**.
-
-</details>
 ---
-<details>
 
-<summary> Гайд для MacOS</summary>
+## 📡 `::[ INCOMING TRANSMISSION ]::` 📡
 
-**1.** Скачиваем **«Hiddify»** — [Ссылка](https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-MacOS.dmg)
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║   GREETINGS, TRAVELER OF THE INFORMATION SUPERHIGHWAY!    ║
+║                                                            ║
+║   You have reached the ADAPT-CONFIGS repository.          ║
+║   Here you will find curated configuration files          ║
+║   for filtering and adapting your digital experience.     ║
+║                                                            ║
+║   >> Black List  — entities to be BLOCKED                 ║
+║   >> White List  — entities to be ALLOWED                 ║
+║                                                            ║
+║   Please SAVE and BOOKMARK this page.                     ║
+║   Tell your friends about us on IRC!                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-**2.** Нажимаем **«Новый профиль»**.
-
-**3.** Копируем в буфер обмена:
-
-· Main Config list
-1) `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt`
-
-· White Config list
-1) `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt`
-
-**4.** Нажимаем на кнопку **«Добавить из буфера обмена»**.
-   
-**5.** Перейдите в **«Настройки»**, измените **«Вариант маршрутизации»** на **«Индонезия»**.
-
-**6.** Нажмите в левом верхнем меню на иконку настроек и выберите **«VPN сервис»**.
-
-**7.** Включаем **«VPN»** нажав на иконку по середине. 
-
-**8.** Для смены сервера включите **«VPN»** и перейдите во вкладку **«Прокси»**.
-
-</details>
 ---
-<details>
 
-<summary> Гайд для Windows, Linux</summary>
+## 💾 `::[ DEMO PREVIEW ]::` 💾
 
-**1.** Скачиваем **«Throne»** — [Windows 10/11](https://github.com/throneproj/Throne/releases/download/1.1.2/Throne-1.1.2-windows64-installer.exe) / [Windows 7/8/8.1](https://github.com/throneproj/Throne/releases/download/1.1.2/Throne-1.1.2-windowslegacy64.zip) / [Linux](https://github.com/throneproj/Throne/releases/download/1.1.2/Throne-1.1.2-linux-amd64.zip)
+<div align="center">
 
-**2.** Копируем в буфер обмена: 
+| | |
+|:---:|:---:|
+| ![retro terminal](./materials/retro-bg.png) | ![pixel art](./materials/pixel-demo.gif) |
+| *Terminal Interface* | *Config in Action* |
 
-· Main Config list
-1) `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/Main_list.txt`
+> 🎬 **Video Demo:**
+>
+> [![Demo Video](https://img.shields.io/badge/▶_WATCH-DEMO_VIDEO-00ff41?style=for-the-badge&labelColor=000000)](./materials/demo-video.mp4)
+>
+> *[Click to watch demo-video.mp4 — 90s style walkthrough]*
 
-· White Config list
-1) `https://raw.githubusercontent.com/PrinceVSFX/V2Ray-Configs/main/White_list.txt`
+</div>
 
-**3.** Нажимаем на **«Профили»**, а затем **«Добавить профиль из буфера обмена»**.
+---
 
-**4.** Выделяем все конфиги комбинацией клавиш **«Ctrl + A»**, нажимаем **«Профили»** в верхнем меню, а затем **«Тест задержки (пинга) выбранного профиля»** и дожидаемся окончания теста (во вкладке **«Логи»** появится надпись **«Тест задержек (пинга) завершён!»**)
+## 📂 `::[ FILE SYSTEM ]::` 📂
 
-**5.** Нажимаем на кнопку колонки **«Задержка (пинг)»**.
+```
+C:\> tree /f ADAPT-CONFIGS
 
-**6.** В верхней части окна программы активируйте опцию **«Режим TUN»**, установив галочку.
+ADAPT-CONFIGS\
+│
+├── README.md                   <<=== YOU ARE HERE
+│
+├── Configs\
+│   ├── Black_list.txt          <<--- BLOCK LIST
+│   └── White_list.txt          <<--- ALLOW LIST
+│
+├── materials\
+│   ├── retro-bg.png            (background image)
+│   ├── pixel-demo.gif          (animated demo)
+│   ├── 90s-style.gif           (retro UI screenshot)
+│   └── demo-video.mp4          (video walkthrough)
+│
+└── docs\
+    └── index.html              (GitHub Pages portal)
 
-**7.** Выбираем один из конфигов с наименьшим **«Задержка (пинг)»**, а затем нажимаем **«ЛКМ»** и **«Запустить»**.
+        [OK]     [CANCEL]     [HELP]
+```
 
-</details>
+---
 
-## Гайд на обновление конфигов
+## 📋 `::[ CONFIG FILES ]::` 📋
 
-<details>
-    
-<summary> Обновление конфигов в Exclave</summary>
+> ⚠️ **Direct download links — raw GitHub format:**
 
-**1.** Нажимаем на **«иконку трех полосок»** в **«левом верхнем углу»**.
+```
+╔══════════════════════════════════════════════════════════════╗
+║  CONFIGS DIRECTORY — v1.0 — UPDATED REGULARLY               ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [BLACKLIST]  Blocked entities — DO NOT ALLOW               ║
+║  [WHITELIST]  Trusted entities — ALWAYS ALLOW               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-**2.** Выбираем вкладку **«Группы»**.
+| File | Description | Raw Link |
+|:-----|:------------|:--------:|
+| 🔴 `Black_list.txt` | Entities to **block** | [📥 RAW](https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt) |
+| 🟢 `White_list.txt` | Entities to **allow** | [📥 RAW](https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt) |
 
-**3.** Нажимаем на кнопку **«Обновить»**. 
+**Direct raw URLs:**
+```
+https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt
+https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt
+```
 
-</details>
+---
 
-<details>
-    
-<summary> Обновление конфигов в v2rayNG</summary>
+## ⚙️ `::[ HOW TO USE ]::` ⚙️
 
-**1.** Нажимаем на **«иконку трех полосок»** в **«левом верхнем углу»**.
+```
+╔══════════════════════════════════════════════════════════════╗
+║  INSTALLATION PROCEDURE v1.0                                 ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  STEP 1 ► Clone this repository                             ║
+║  STEP 2 ► Navigate to Configs\ directory                    ║
+║  STEP 3 ► Apply Black_list.txt to your blocker              ║
+║  STEP 4 ► Apply White_list.txt to your allowlist            ║
+║  STEP 5 ► PROFIT                                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-**2.** Выбираем вкладку **«Группы»**.
+```bash
+# Clone via HTTPS
+git clone https://github.com/PrinceVSFX/Adapt-Configs.git
 
-**3.** Нажимаем на **«иконку кружка со стрелкой»** в **«правом верхнем углу»**.
+# Or download individual files
+curl -O https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/Black_list.txt
+curl -O https://raw.githubusercontent.com/PrinceVSFX/Adapt-Configs/main/Configs/White_list.txt
+```
 
-</details>
+---
 
-<details>
+## 📊 `::[ WEBMASTER STATS ]::` 📊
 
-<summary> Обновление конфигов в NekoRay</summary>
+<div align="center">
 
-**1.** Нажимаем на кнопку **«Настройки»**.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrinceVSFX&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00ff41&icon_color=00ffcc&text_color=00ff41&bg_color=000000)
 
-**2.** Выбираем **«Группы»**.
+</div>
 
-**3.** Нажимаем на кнопку **«Обновить все подписки»**.
+---
 
-</details>
+## 🔗 `::[ LINKS & CREDITS ]::` 🔗
 
-<details>
+```
++--------------------------------------------------------------+
+|  COOL SITES TO VISIT:                                        |
+|                                                              |
+|  >> GitHub Profile  : https://github.com/PrinceVSFX        |
+|  >> Download ZIP    : (see releases tab)                    |
+|  >> Report Bug      : (open an issue)                       |
+|  >> Star this repo  : if you find it useful!                |
++--------------------------------------------------------------+
+```
 
-<summary> Обновление конфигов в V2Box - V2ray Client</summary>
+- ⭐ [Star this Repository](https://github.com/PrinceVSFX/Adapt-Configs/stargazers)
+- 🐛 [Report an Issue](https://github.com/PrinceVSFX/Adapt-Configs/issues)
+- 💾 [Download ZIP](https://github.com/PrinceVSFX/Adapt-Configs/archive/refs/heads/main.zip)
+- 👤 [Author Profile](https://github.com/PrinceVSFX)
 
-**1.** Переходим во вкладку **«Config»**.
+---
 
-**2.** Нажимаем на иконку обновления слева от названия группы подписки.
+## 📜 `::[ DISCLAIMER ]::` 📜
 
-</details>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                       DISCLAIMER                             ║
+║                                                              ║
+║  These configuration files are provided AS-IS.              ║
+║  Use at your own risk. The author is not responsible        ║
+║  for any data loss, system instability, or temporal         ║
+║  anomalies caused by improper use of these configs.         ║
+║                                                              ║
+║  © PrinceVSFX 1999–2025. All rights reserved.               ║
+║  Unauthorized reproduction will result in a strongly        ║
+║  worded message delivered via ICQ.                          ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<details>
+---
 
-<summary> Обновление конфигов в Hiddify</summary>
+<div align="center">
 
-**1.** Заходим в приложение **«Hiddify»** и выбираем нужный вам профиль.
+```
+~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+*                                                       *
+*   THIS SITE MADE WITH ♥ NOTEPAD AND MOUNTAIN DEW     *
+*                                                       *
+~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+```
 
-**2.** Нажимаем **«слева от названия профиля на иконку обновления»**.
+![Notepad](https://img.shields.io/badge/Made_with-Notepad-00ff41?style=flat-square&labelColor=000000)
+![No IE](https://img.shields.io/badge/IE6-NOT_SUPPORTED-ff0000?style=flat-square&labelColor=000000)
+![Coffee](https://img.shields.io/badge/Powered_by-Coffee_☕-00ffcc?style=flat-square&labelColor=000000)
+![GeoCities](https://img.shields.io/badge/Hosted_on-GeoCities-00ff41?style=flat-square&labelColor=000000)
 
-</details>
+*Last updated: When I felt like it*
+
+```
+[ ↑ TOP ]  |  [ EMAIL WEBMASTER ]  |  [ VIEW SOURCE ]
+```
+
+*© PrinceVSFX — Proud Member of the Free Web Ring — Est. 1999*
+
+</div>
