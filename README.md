@@ -14,8 +14,41 @@
 ![Stars](https://img.shields.io/github/stars/PrinceVSFX/Adapt-Configs?style=flat-square&color=00ffcc&labelColor=000000&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/PrinceVSFX/Adapt-Configs?style=flat-square&color=00ff41&labelColor=000000)
 
-*© PrinceVSFX — Proud Member of the Free Web Ring — Est. 1999*
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=2&section=header"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:00FF88,100:00BFFF&text=CREDITS&fontSize=40&fontColor=ffffff"/>
+
+**This repository does not create or own the original configurations.**
+
+*The configs are collected from:*
+  ```
+  https://github.com/Epodonios/v2ray-configs
+  ```
+  ```
+  https://github.com/AvenCores/goida-vpn-configs
+  ```
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00BFFF&height=120&section=header"/>
+
+**All configurations were filtered, cleaned, deduplicated, and merged into subscription (.txt) files for easier use and distribution.**
+<img width="91%" src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=5"/>
+
+*Thanks to the original authors and contributors for maintaining these repositories.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00BFFF&height=120&section=footer"/>
+
+</div>
+
+</br>
+
+<div align="center">
+
+*© PrinceVSFX — Proud Member of the Free Web Ring — Est. 1999*
 
 </div>
