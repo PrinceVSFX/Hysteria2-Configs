@@ -18,6 +18,38 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:000000,100:000000&text=SORTED%20CONFIGS&fontColor=ffffff&fontSize=28"/>
+
+### Filtered & Sorted Collections
+
+These configuration lists have been cleaned, deduplicated, tested and sorted by quality.
+
+| Collection | Description |
+|------------|-------------|
+| 🔹 AvenCores Full | Complete sorted collection from AvenCores |
+| 🔥 AvenCores Top 50 | Top 50 best-performing configs from AvenCores |
+| 🔹 Epodonios Full | Complete sorted collection from Epodonios |
+| 🔥 Epodonios Top 50 | Top 50 best-performing configs from Epodonios |
+
+#### Downloads
+
+```
+https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/AvenCores_full_sorted.txt
+```
+```
+https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/AvenCores_top50.txt
+```
+```
+https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Epodonios_full_sorted.txt
+```
+```
+https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Epodonios_top50.txt
+```
+
+</div>
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:00FF88,100:00BFFF&text=CREDITS&fontSize=40&fontColor=ffffff"/>
 
 **This repository does not create or own the original configurations.**
