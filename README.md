@@ -3,64 +3,15 @@
 </p>
 
 <p align="center">
-  <sub>🌸 You are visitor number 🌸</sub><br>
+  <sub> You are visitor number </sub><br>
   
   <img src="https://count.getloli.com/get/@PrinceVSFX-Vless-Configs?theme=moebooru" />
 </p>
 
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PrinceVSFX.Adapt-Configs&color=00ff41&labelColor=000000)
 ![Stars](https://img.shields.io/github/stars/PrinceVSFX/Adapt-Configs?style=flat-square&color=00ffcc&labelColor=000000&logo=github)
-![Last Commit](https://img.shields.io/github/last-commit/PrinceVSFX/Adapt-Configs?style=flat-square&color=00ff41&labelColor=000000)
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:000000,100:000000&text=SORTED%20CONFIGS&fontColor=ffffff&fontSize=28"/>
-
-### Filtered & Sorted Collections
-
-These configuration lists have been cleaned, deduplicated, tested and sorted by quality.
-
-| Collection | Description |
-|------------|-------------|
-| 🔹 AvenCores Full | Complete sorted collection from AvenCores |
-| 🔥 AvenCores Top 50 | Top 50 best-performing configs from AvenCores |
-| 🔹 Epodonios Full | Complete sorted collection from Epodonios |
-| 🔥 Epodonios Top 50 | Top 50 best-performing configs from Epodonios |
-
-#### Downloads
-
-```
-https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/AvenCores_full_sorted.txt
-```
-```
-https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/AvenCores_top50.txt
-```
-```
-https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Epodonios_full_sorted.txt
-```
-```
-https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Epodonios_top50.txt
-```
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:00FF88,100:00BFFF&text=CREDITS&fontSize=40&fontColor=ffffff"/>
-
-**This repository does not create or own the original configurations.**
-
-*The configs are collected from:*
-  ```
-  https://github.com/Epodonios/v2ray-configs
-  ```
-  ```
-  https://github.com/AvenCores/goida-vpn-configs
-  ```
+![Last Commit](https://img.shields.io/github/last-commit/PrinceVSFX/Vless-Configs?style=flat-square&color=00ff41&labelColor=000000)
 
 </div>
 
@@ -68,19 +19,24 @@ https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Epodonios_top50.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00BFFF&height=120&section=header"/>
 
-**All configurations were filtered, cleaned, deduplicated, and merged into subscription (.txt) files for easier use and distribution.**
-<img width="91%" src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:000000,100:000000&text=SORTED%20CONFIGS&fontColor=ffffff&fontSize=28"/>
 
-*Thanks to the original authors and contributors for maintaining these repositories.*
+These configuration lists have been cleaned, deduplicated, tested, sorted by quality, and merged into subscription (.txt) files for easier use and distribution. 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00BFFF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:000000,100:000000&text=DOWNLOAD&fontColor=ffffff&fontSize=28"/>
+
+```
+https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/AvenCores_full_sorted.txt
+```
 
 </div>
 
-</br>
-
 <div align="center">
 
-*© PrinceVSFX — Proud Member of the Free Web Ring — Est. 1999*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00BFFF&height=120&section=footer"/>  
+
+</br>
+
+*Thanks to the original authors and contributors for maintaining these repositories.*
 
 </div>
