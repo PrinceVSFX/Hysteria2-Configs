@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/PrinceVSFX/Adapt-Configs?style=flat-square&color=00ffcc&labelColor=000000&logo=github)
+![Stars](https://img.shields.io/github/stars/PrinceVSFX/Vless-Configs?style=flat-square&color=00ffcc&labelColor=000000&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/PrinceVSFX/Vless-Configs?style=flat-square&color=00ff41&labelColor=000000)
 
 </div>
