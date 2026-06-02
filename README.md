@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=900&size=52&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&height=100&lines=VLESS+CONFIGS;PREMIUM+V2RAY+COLLECTION;AUTO+UPDATED+24%2F7" alt="VLESS CONFIGS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=900&size=52&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&height=100&lines=VLESS+CONFIGS;PREMIUM+COLLECTION;UPDATED+24%2F7" alt="VLESS CONFIGS"/>
 </p>
 
 <p align="center">
