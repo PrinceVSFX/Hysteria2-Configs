@@ -1,7 +1,7 @@
 # profile-title: ⚫ BLACK + ⚪ WHITE | Exploit — Чёрный список / Ghidorah — Белый список
 # profile-update-interval: 1
 # Date/Time: 2026-06-08 / 14:25 (Moscow)
-# Количество: 60
+# Количество: 88
 vless://fb7fe921-1032-45fe-ae9d-20090976e572@tal.odavpn.online:443?mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&fp=chrome&type=xhttp&sni=www.amd.com&sid=41774dc9dc721e#🇪🇪 Exploit - #1
 vless://e8d0f687-b369-4071-9c9b-eb6c4359bf26@94.139.251.7:12443?security=reality&encryption=none&pbk=Q9rnUzSmDyhXFoIoeU0r_-H9FsXO8H36DrY7GSqF_wk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=abcd1234#🇫🇮 Exploit - #2
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=&encryption=none&host=tignaltofansv4.global.ssl.fastly.net&type=xhttp#🇫🇷 Exploit - #3
