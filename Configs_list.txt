@@ -20,3 +20,4 @@ hysteria2://hysteria2_fastlane_ykzeya0yh%3AgIy8eETGASCIkDU1SJKLNQ26FtTAHKnb@2.27
 hysteria2://hysteria2_fastlane_q7snw1zcw%3AA8aE31JOPWLwywCiPa5aZ1OCjofuKmpw@84.23.54.203:1935?security=tls&insecure=0&sni=ru2.h.smartaisupport.ru#🇨🇿 Ghidorah - #16
 hysteria2://hysteria2_fastlane_t4w4l1x1u%3AL2Zk10zrnAW3HJw5CIQgSVCr4T76mDgP@64.188.74.69:1935?security=tls&insecure=0&sni=fn1.h.fastlanehosting.ru#🇫🇮 Ghidorah - #17
 hysteria2://0db4a6c709ca4a46153af8a401b7138a@se.allgoodvpn.su:8443?security=tls&insecure=0&sni=se.allgoodvpn.su#🇸🇪 Ghidorah - #18 
+hysteria2://863712b3-3901-4a20-9e7f-9c5cb0d19725@remnanodewwnl.soon.it:443?security=tls&sni=remnanodewwnl.soon.it&alpn=h3&fp=firefox#🇳🇱 Ghidorah - #19
