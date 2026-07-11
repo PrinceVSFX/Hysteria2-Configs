@@ -1,23 +1,33 @@
-profile-title: ⚫ BLACK | Ghidorah — Чёрный список
-profile-update-interval: 1
-Date/Time: 00:36 (Moscow) Thursday, 02 July 2026
-
-hysteria2://austria_hysteria2_fastlane_pr9hzj94h%3Aasl7TGuo18tjcDpa7hmn3nn77afcxPgB@193.32.8.212:1935?security=tls&insecure=0&sni=at4.h.fastlanehosting.ru#🇦🇹 Ghidorah - #1
-hysteria2://austria_hysteria2_fastlane_r403y7lb6%3AperwZC63hnzAS1dPVy1CbAZwVWsNRQf2@87.251.69.158:1935?security=tls&insecure=0&sni=at3.h.fastlanehosting.ru#🇦🇹 Ghidorah - #2
-hysteria2://hysteria2_fastlane_t0s8xgv4r%3ABbwX7lOhGBPcankbTqnfzST51KG4wPdc@2.27.29.158:1935?security=tls&insecure=0&sni=de10.h.fastlanehosting.ru#🇩🇪 Ghidorah - #3
-hysteria2://2_hysteria2_fastlane_s47d8le7f%3AKs8lPI7vaS4lTXLgPif8SCt1PDmtAPzV@2.27.25.75:1935?security=tls&insecure=0&sni=de11.h.fastlanehosting.ru#🇩🇪 Ghidorah - #4
-hysteria2://hysteria2_fastlane_4l3cayizw%3A7v54t0uP8LWBI3Mx7jy78UxsYdaFgrsK@2.27.28.103:1935?security=tls&insecure=0&sni=de4.h.fastlanehosting.ru#🇵🇱 Ghidorah - #5
-hysteria2://2_hysteria2_fastlane_i87mugv6n%3AqUH7ZG0kCKCnuyy3NZzVBhDvcHRQsNsH@2.59.163.249:1935?security=tls&insecure=0&sni=pl2.h.fastlanehosting.ru#🇵🇱 Ghidorah - #6
-hysteria2://hysteria2_fastlane_e936s8ylz%3A6cP666Dny2JgQrDcN537uJekMNbCEisO@2.26.26.164:1935?security=tls&insecure=0&sni=de9.h.fastlanehosting.ru#🇨🇭 Ghidorah - #7
-hysteria2://2_hysteria2_fastlane_sfk6g0zi7%3A82LCbi9CAXD2R6k27FDZ6PEmCnKNRiGC@45.140.205.5:1935?security=tls&insecure=0&sni=ch2.h.fastlanehosting.ru#🇨🇭 Ghidorah - #8
-hysteria2://hysteria2_fastlane_dw25kg5kz%3AjbuZPe8afM6gEZHYyXlSGXrh2C8art6C@144.31.135.204:1935?security=tls&insecure=0&sni=nl2.h.fastlanehosting.ru#🇳🇱 Ghidorah - #9
-hysteria2://netherlands_2_hysteria2_fastlane_ki5elao66%3AzBlQC4Kg6Z9LfZXaOr7Q6rG1EeyFRqzF@138.124.67.62:1935?security=tls&insecure=0&sni=nl3.h.fastlanehosting.ru#🇳🇱 Ghidorah - #10
-hysteria2://latvia_hysteria2_fastlane_cdu4tsc4f%3AHwnGHeLZt316i4h3w9T7c70uDnVahbVz@62.60.234.60:1935?security=tls&insecure=0&sni=lv1.h.fastlanehosting.ru#🇱🇻 Ghidorah - #11
-hysteria2://hysteria2_fastlane_sgrls5qt7%3ArDJY5tGdLKfUHJOl7XEbaT0AWQBGH8TU@2.27.28.105:1935?security=tls&insecure=0&sni=de7.h.fastlanehosting.ru#🇹🇷 Ghidorah - #12
-hysteria2://hysteria2_fastlane_9qktd3cf3%3Aaud2XLGUmHU6MpWPsjC8yHayaIuVrKXz@193.233.203.162:1935?security=tls&insecure=0&sni=us2.h.fastlanehosting.ru#🇺🇸 Ghidorah - #13
-hysteria2://hysteria2_fastlane_o05b5u79c%3ApofIrfFceg5133GJcNTHjC4HkFjJtWmh@91.132.160.243:1935?security=tls&insecure=0&sni=de6.h.fastlanehosting.ru#🇬🇧 Ghidorah - #14
-hysteria2://hysteria2_fastlane_ykzeya0yh%3AgIy8eETGASCIkDU1SJKLNQ26FtTAHKnb@2.27.28.106:1935?security=tls&insecure=0&sni=de8.h.fastlanehosting.ru#🇫🇷 Ghidorah - #15
-hysteria2://hysteria2_fastlane_q7snw1zcw%3AA8aE31JOPWLwywCiPa5aZ1OCjofuKmpw@84.23.54.203:1935?security=tls&insecure=0&sni=ru2.h.smartaisupport.ru#🇨🇿 Ghidorah - #16
-hysteria2://hysteria2_fastlane_t4w4l1x1u%3AL2Zk10zrnAW3HJw5CIQgSVCr4T76mDgP@64.188.74.69:1935?security=tls&insecure=0&sni=fn1.h.fastlanehosting.ru#🇫🇮 Ghidorah - #17
-hysteria2://0db4a6c709ca4a46153af8a401b7138a@se.allgoodvpn.su:8443?security=tls&insecure=0&sni=se.allgoodvpn.su#🇸🇪 Ghidorah - #18 
-hysteria2://863712b3-3901-4a20-9e7f-9c5cb0d19725@remnanodewwnl.soon.it:443?security=tls&sni=remnanodewwnl.soon.it&alpn=h3&fp=firefox#🇳🇱 Ghidorah - #19
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@bd-zv57f16k-141b.msk.v-tun.com:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amedia-vod.cdnvideo.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇩🇪+LTE+%2344
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@z0211mq18-z3rk.ru-a1.y-tun.com:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇩🇪+LTE+%2346
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@px1t-tab-57fzza.de.deepl-cdn.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&type=tcp&headerType=none#🇩🇪+SMART-Германия
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@b3aa11az-k15gg1.ru.y-tun.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇩🇪+LTE+%2323
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@35a1-1mr4-msk-bbd-5zx.89-1.yndx-cdn.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇳🇱+LTE+%2319
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@jauhfs0-ru.pool-3.rutube-cdn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=safari&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇸🇪+LTE+%2313
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@ger8et-jauhfs0-ru.pool-2.yndx-cdn.com:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇸🇪+LTE+%2312
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@jagger-3-ru.zrw.rutube-cdn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=river-3-369.rtbcdn.ru&fp=firefox&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇳🇱+LTE+%239
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@bd-zv57f16k-141b.msk.v-tun.com:50445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=river-3-369.rtbcdn.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇩🇪+LTE+%2343
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@r0q21mz25-xmjm.ru-a1.y-tun.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇩🇪+LTE+%2347
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@46.8.209.145:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rutube.ru&fp=firefox&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇸🇪+LTE+%2314
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@m9-lk2x.mx.userapi.dev:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇸🇪+LTE+%2315
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@ge171301-1624.46.vkproxy.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amedia-vod.cdnvideo.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇳🇱+LTE+%2339
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@ge171301-1624.46.vkproxy.com:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amedia-vod.cdnvideo.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇳🇱+LTE+%2340
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@z4vv04a1-g8qm9g.ru.y-tun.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇩🇪+LTE+%2321
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@75f56d06-621c.kz.v-tun.com:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇰🇿+LTE+%2320
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@75f56d06-621c.kz.v-tun.com:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amedia-vod.cdnvideo.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇰🇿+LTE+%2332
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@fn4t29qr8x7vb-mds.us.deepl-cdn.com:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=wKPAR2t-xoUMbBqRHV7SLvGuR9dwrcH6bTSknyBO0T8&sid=a1b2c3d4e5f6789a&type=tcp&headerType=none#🇺🇸+SMART-США
+vless://8a116433-0c70-4f3a-ac99-4dfcccbd4350@ja4jaa3-61adf1.sg.y-tun.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auth.deepl.com&fp=qq&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&type=tcp&headerType=none#🇸🇬+SMART-Сингапур
+hysteria2://8a116433-0c70-4f3a-ac99-4dfcccbd4350@x1bu-2h2-1h15tz.de.deepl-cdn.com:30443?insecure=0&sni=de.deepl-cdn.com&alpn=h3&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs#🇩🇪+SMART-Германия+[HYS2]
+hysteria2://8a116433-0c70-4f3a-ac99-4dfcccbd4350@mmk2-oz2.se.deepl-cdn.com:40443?insecure=0&sni=se.deepl-cdn.com&alpn=h3&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs#🇸🇪+SMART-Швеция+[HYS2]
+hysteria2://8a116433-0c70-4f3a-ac99-4dfcccbd4350@lkjdby8j029.ru.mediavitrina.com:30443?insecure=0&sni=content.ru.mediavitrina.com&alpn=h3&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs#🇷🇺+SMART-Россия+[HYS2]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#🇮🇳+SS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.54.9.181:3306#🇦🇪+SS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#🇺🇸+SS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#🇸🇬+SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#🇦🇺+SS
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@156.244.32.9:7002#🇨🇴+SS
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.54.125.229:8091#🇲🇾+SS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#🇵🇱+SS
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#🇩🇪+SS
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#🇧🇬+SS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#🇨🇦+SS
